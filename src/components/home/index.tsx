@@ -23,7 +23,7 @@ function Home() {
 
   return (
     <Container>
-      <HeadingXXLarge color="secondary500">Welcome Home Bud!</HeadingXXLarge>
+      <HeadingXXLarge color="secondary500">Welcome Duaa!</HeadingXXLarge>
       <Button kind="secondary" onClick={getPayment}>
         Get Payment
       </Button>

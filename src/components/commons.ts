@@ -18,7 +18,7 @@ export const InnerContainer = styled.div`
   padding: 6rem 4rem;
   // border-radius: 1rem;
   box-shadow: 0 2px 8px rgba(15, 15, 15, 0.6);
-  background-color: white;
+  background-color: lightblue;
 `;
 
 export const InputWrapper = styled.div`
@@ -37,5 +37,5 @@ export const StyledInput = styled(Input)`
 export const ErrorText = styled.span`
   color: #eb5d5d;
   font-size: 18px;
-  margin: 7px 0;
+  margin: 6px 0;
 `;
