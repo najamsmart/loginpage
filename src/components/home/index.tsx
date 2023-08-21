@@ -25,7 +25,7 @@ function Home() {
     <Container>
       <HeadingXXLarge color="secondary500">Welcome Duaa!</HeadingXXLarge>
       <Button kind="secondary" onClick={getPayment}>
-        Get Payment
+        Get pay
       </Button>
       <Button kind="secondary" onClick={logout}>
         Logout
